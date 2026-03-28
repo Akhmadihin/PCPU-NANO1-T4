@@ -57,8 +57,8 @@ PCPU-NANO1 T4 — Documentation
 | Address | INS | DATA | Description |
 |---------|-----|------|-------------|
 | 0 | 1 | 1 | NADJZ |
-| 1 | 0 | 0 | NOP |
-| 2 | 0 | 0 | NOP |
+| 1 | 0 | 1 | NOP |
+| 2 | 0 | 1 | NOP |
 | 3 | 1 | 1 | NADJZ (jump to 0) |
 
 ---
