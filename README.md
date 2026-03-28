@@ -34,7 +34,7 @@ PCPU-NANO1 T4 — Documentation
 
 ## 3. Schematic
 
-![Schematic](circuit-20260328-2316.png)
+![Schematic](Schematic.png)
 
 ---
 
