@@ -8,7 +8,9 @@ void setup(){
 }
 void loop(){
      digitalWrite(4, HIGH);
-     delay(75);
+     delay(100);
      digitalWrite(4, LOW);
-     delay(75);
+     delay(100);
+     // 5 hz
 }
+// https://youtu.be/V0iv85BPVNQ?si=aAmPzUCngnql7NAi running the code on my PCPU NANO1 T4
