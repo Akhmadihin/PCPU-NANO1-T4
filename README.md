@@ -63,6 +63,8 @@ PCPU-NANO1 T4 — Documentation
 
 IF IN = 0
 
+https://youtu.be/V0iv85BPVNQ?si=aAmPzUCngnql7NAi running the code on my PCPU NANO1 T4
+
 ---
 
 ## 6. Scaling to n Bits
