@@ -90,3 +90,7 @@ Connect **n cores** in parallel:
 ---
 
 © 2026 — Open Documentation. Licensed under MIT License.
+
+This project was inspired by the original PCPU-NANO1 (author: ppc-8051), 
+whose repository is no longer available. The schematic and implementation 
+have been redesigned and optimized independently.
