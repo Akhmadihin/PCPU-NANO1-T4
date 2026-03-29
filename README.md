@@ -61,6 +61,8 @@ PCPU-NANO1 T4 — Documentation
 | 2 | 0 | 1 | NOP |
 | 3 | 1 | 1 | NADJZ (jump to 0) |
 
+IF IN = 0
+
 ---
 
 ## 6. Scaling to n Bits
